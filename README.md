@@ -262,10 +262,6 @@ Check the ReadMe file in the main [Google2FA](https://github.com/antonioribeiro/
 
 The package tests were written with [phpspec](http://www.phpspec.net/en/latest/).
 
-## Author
-
-[Antonio Carlos Ribeiro](http://twitter.com/iantonioribeiro)
-
 ## License
 
 Google2FA is licensed under the MIT License - see the `LICENSE` file for details
